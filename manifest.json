@@ -8,8 +8,8 @@
     "scripts": ["background.js"]
   },
   "icons": {
-    "16": "icon16.png",
-    "48": "icon48.png",
-    "128": "icon128.png"
+    "16": "IMG_554.jpeg",
+    "48": "IMG_555.jpeg",
+    "128": "IMG_556.jpeg"
   }
 }
